@@ -39,7 +39,7 @@ The following image shows a mock-up of the generated appearance and functionalit
 ![Notetaker](./assets/Mockup.PNG)
 
 ## Link to the recording video
-![Notetaker Recoding](https://github.com/swethareddyl/TeamProfileGenerator/blob/main/assets/TeamProfileGenerator.webm)
+![Notetaker Recoding](https://github.com/swethareddyl/Note-Taker/blob/main/assets/NotetakerRecording.webm)
 
 ## Github link
-https://github.com/swethareddyl/TeamProfileGenerator.git
+https://github.com/swethareddyl/Note-Taker
